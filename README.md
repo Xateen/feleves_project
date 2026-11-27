@@ -1,6 +1,6 @@
 # The Car Shop
 
-Hallgató: Rozbroy Attila  FLFM58
+Hallgató: Rozbroy Attila  (FLFM58)
 
 Figma tervfájl: https://www.figma.com/board/nC4UAPz2ouOdI8eJLPJCuT/The-Car-Shop?t=2Q2FU2aVADsFFxrV-1
 
