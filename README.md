@@ -1,12 +1,12 @@
-The Car Shop
+## The Car Shop
 
-Hallgató: Rozbroy Attila  ·  Platform: <iOS | Android | reszponzív web>
+Hallgató: Rozbroy Attila  ·  Platform: <reszponzív web>
 Figma tervfájl: <link, "anyone with the link can view">
 FigJam kutatási tábla: <link, "anyone with the link can view">
 Prototípus: <link, a 6. lépésből>
 
 ## egy mechanikai autóalkatrész webárruház 
-<App> segít <kiknek>, hogy <mit tegyenek>, amikor <helyzet>.
+a vásárlást könnyítö és gyorsíttó app.
 
 ## Állapot
 - [x] 1. lépés · Ötlet és referenciák (határidő: 2. alkalom)
@@ -16,5 +16,3 @@ Prototípus: <link, a 6. lépésből>
 - [ ] 5. lépés · UI kit, képernyők, heurisztikus értékelés (határidő: 6. alkalom)
 - [ ] 6. lépés · Prototípus, teszt, esettanulmány (határidő: záró bemutató)
 
-## AI-használat (a teljes projekt)
-<eszköz · mire · mit változtattam rajta>, vagy: nem használtam
