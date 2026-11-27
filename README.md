@@ -1,15 +1,15 @@
-# uuuuuuuuuuuuuuuu
+The Car Shop
 
 Hallgató: Rozbroy Attila  ·  Platform: <iOS | Android | reszponzív web>
 Figma tervfájl: <link, "anyone with the link can view">
 FigJam kutatási tábla: <link, "anyone with the link can view">
 Prototípus: <link, a 6. lépésből>
 
-## Az ötlet egy mondatban
+## egy mechanikai autóalkatrész webárruház 
 <App> segít <kiknek>, hogy <mit tegyenek>, amikor <helyzet>.
 
 ## Állapot
-- [ ] 1. lépés · Ötlet és referenciák (határidő: 2. alkalom)
+- [x] 1. lépés · Ötlet és referenciák (határidő: 2. alkalom)
 - [ ] 2. lépés · Benchmark és interjúk (határidő: 3. alkalom)
 - [ ] 3. lépés · Insightok, perszóna, journey map, probléma (határidő: 4. alkalom)
 - [ ] 4. lépés · Koncepció, oldaltérkép, user flow, drótvázak (határidő: 5. alkalom)
