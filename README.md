@@ -1,9 +1,11 @@
 ## The Car Shop
 
-Hallgató: Rozbroy Attila  ·  Platform: <reszponzív web>
-Figma tervfájl: < https://www.figma.com/board/nC4UAPz2ouOdI8eJLPJCuT/The-Car-Shop?t=2Q2FU2aVADsFFxrV-1 >
-FigJam kutatási tábla: <link, "anyone with the link can view">
-Prototípus: <link, a 6. lépésből>
+# Hallgató: Rozbroy Attila  ·  Platform: <reszponzív web>
+
+# Figma tervfájl: < https://www.figma.com/board/nC4UAPz2ouOdI8eJLPJCuT/The-Car-Shop?t=2Q2FU2aVADsFFxrV-1 >
+
+# FigJam kutatási tábla: <link, "anyone with the link can view">
+
 
 ## egy mechanikai autóalkatrész webárruház 
 a vásárlást könnyítö és gyorsíttó app.
